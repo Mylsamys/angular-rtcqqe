@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { ChangeTextDirective } from '@change-text.directive';
+
 @Component({
   selector: 'my-app',
   templateUrl: './Binding.html',

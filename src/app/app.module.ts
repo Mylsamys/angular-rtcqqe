@@ -4,6 +4,7 @@ import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
 import { HelloComponent } from './hello.component';
+import { ChangeTextDirective } from './change-text.directive.spec';
 
 @NgModule({
   imports:      [ BrowserModule, FormsModule ],
